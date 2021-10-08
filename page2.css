@@ -1,0 +1,108 @@
+.row>*{
+    margin-bottom:10px;
+}
+
+.title-top{
+    font-size:25px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 650;
+}
+
+
+li{
+    list-style-type: none;
+    display: inline-block;
+}
+
+.date{
+    font-size:18px;
+    text-align-last:left;
+    padding:10px;
+   
+}
+
+.place{
+    font-size:18px;
+    text-align-last:right;
+    padding:10px;
+}
+
+.para1{
+    border:2px solid black;
+    border-left: none;
+    border-right: none;
+    text-align: center;
+    font-size:16px;
+}
+
+
+ #mountain{
+    width:700px;
+    height:650px;
+    object-fit: cover;
+    object-position: center;
+    margin:0;
+    padding:40px 0;
+    position: relative;
+    top:-70px;
+   
+   
+}
+
+.content-1{
+    text-align: left;
+   
+}
+.content-1-head{
+    font-size: 25px;
+    margin-top:20px;
+    font-weight: 650;
+}
+.endline{
+    border-top: 2px solid black;
+    
+}
+.content--head{
+    font-size:25px;
+    font-weight:650;
+  
+}
+.content-3-head{
+    font-size:25px;
+    font-weight:650;
+    margin: 0;
+}
+
+p{
+    font-size:16px;
+}
+.label{
+    font-size: 25px;
+    color:white;
+    background-color: crimson;
+    max-width:120px;
+    border-style:hidden;
+}
+
+.seperate-col{
+    border-top:2px solid black;
+    border-bottom: 2px solid black;
+    text-align: center;
+    padding:20px;
+}
+.seperate-col>p{
+font-size: 25px;
+color:crimson;
+}
+#pic{
+min-height:325px;
+
+}
+.footer{
+    border-top: 2px solid black;
+    
+}
+main{
+background-color: #f1f1f1 ;
+}
